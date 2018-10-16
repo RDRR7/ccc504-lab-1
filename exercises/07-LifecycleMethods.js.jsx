@@ -79,7 +79,7 @@ class LifecycleMethodsComponent extends React.Component {
 		//         you are listening for events. Your event listeners use setState
 		//         directly. What will happen if you unmount the component?
 		//         How can this lifecycle method help you to avoid such problems?
-		console.log("Goodbye, cruel world!")
+		console.log("Goodbye, cruel world! :(")
 	}
 
 	render() {
